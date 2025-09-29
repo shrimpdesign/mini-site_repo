@@ -1,0 +1,71 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: beige;
+
+}
+
+header {
+    background-color: lightblue;
+    padding: 50px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: darkblue;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+h1 {
+    text-align: center;
+    color: #9ccfce;
+    margin-top: 50px;
+}
+
+#text {
+    text-align: justify;
+    margin-left: 200px;
+    margin-right: 200px;
+    /* padding-left: 200px;
+    padding-right: 200px; */
+    background-color: #9ccfce;
+}
+
+#ceramicstitle {
+    float: left;
+    background-color: #d3edc5;
+    width: 400px;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+#Ceramics {
+    float: left;
+    text-align: justify;
+    /* margin-left: 200px; */
+    margin-right: 1000px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+#crochettitle {
+    float: right;
+    background-color: #d3edc5;
+    width: 400px;
+    text-align: center;
+    margin-right: 200px;
+    margin-top: -475px;
+}
+
+#Crochet {
+    float: right;
+    text-align: justify;
+    margin-left: 1000px;
+    margin-right: 50px;
+    margin-top: -376px;
+}
