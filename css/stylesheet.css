@@ -148,7 +148,7 @@ header {
 
 /* ------Ceramics and Crochet Page------ */
 
-#ceramics {
+#head {
     margin-left: 100px;
 }
 
@@ -157,7 +157,8 @@ header {
     margin-right: 600px;
     margin-top: 50px;
 }
-title p{
+
+#description {
     float: right;
     text-align: justify;
     margin-left: 620px;
