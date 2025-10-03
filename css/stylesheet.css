@@ -16,8 +16,8 @@ header {
 .header a {
     text-decoration: none;
     color: darkblue;
-    padding-left: 120px;
-    padding-right: 120px;
+    padding-left: 80px;
+    padding-right: 80px;
     font-family: "ice-cream-standard", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -270,6 +270,33 @@ header {
     font-size: 16px;
 }
 
+/* -------Appreciation Page ---------*/
+
+#appreciationcontent {
+    background-color: #d3edc5;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 100px;
+    line-height: 1.5;
+    padding: 10px 10px 10px 10px;
+    border-radius: 8px;
+    font-family: "finalsix", sans-serif;
+    font-weight: 200;
+    font-style: bold;
+    font-size: 20px;
+}
+
+#lastfooter {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+    margin-top: 150px;
+    font-family: "ice-cream-standard", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+}
 
 
 
